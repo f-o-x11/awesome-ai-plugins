@@ -112,6 +112,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 
 - [Awesome QA Skills](https://github.com/naodeng/awesome-qa-skills) - Bilingual collection of 330 installable QA agent skills covering test workflows, test types, and skill engineering across the SDLC.
 - [claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Agent Skills for full-stack development across languages, frameworks, infrastructure, testing, security, and data/ML, with 371 reference files that load only when a task needs them and 9 project workflow commands.
+- - [deed.page](https://github.com/f-o-x11/deed-page-skill) - Agent skill that publishes an HTML file or static folder to a permanent public deed.page URL with one curl request and no account.
 - [dex](https://github.com/exmergo/dex) - Agent skills for warehouse exploration, dbt transformation authoring, and schema-drift maintenance. Built by Exmergo.
 - [image-use](https://github.com/leeguooooo/image-use) - Agent skill and zero-dependency CLI for generating and editing images with existing ChatGPT or Gemini accounts, with reference images, reusable styles and looping animations without an API key.
 - [Krexa](https://github.com/Krexa-xyz/skills) - Agent skill and hosted MCP server that turn a trading idea, post or video into a backtested, paper-traded strategy (free) and, after the user approves and signs, a live trading agent on Binance, Coinbase, Kraken, OKX, Bybit, MEXC, Hyperliquid, Polymarket and Solana DEXs with order limits enforced server-side.
